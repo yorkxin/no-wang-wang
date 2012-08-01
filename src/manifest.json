@@ -1,7 +1,7 @@
 {
   // Required
   "name": "拒看旺旺中時",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "manifest_version": 2,
 
   "description": "從今天起，拒看中時電子報、中天電視、中視的網站。原始碼下載： github.com/chitsaou/no-wang-wang",
