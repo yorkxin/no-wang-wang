@@ -6,7 +6,7 @@
 
 ## 安裝方式
 
-本軟體製作成一個 Chrome 擴充程式，請上 Chrome Web Store 安裝。
+本軟體製作成一個 Chrome 擴充程式，[請上 Chrome Web Store 安裝](https://chrome.google.com/webstore/detail/jgoljbdcdakinkigihjocpniamcgofmm/)。
 
 ## 工程細節
 
