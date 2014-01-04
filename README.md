@@ -18,6 +18,7 @@
   - 例外：中時部落格 `blog.chinatimes.com`
 * 中天電視 `*.ctitv.com.tw`
 * 中國電視公司 `*.ctv.com.tw`
+* 旺報 `*.want-daily.com`
 
 ## 聲明
 
