@@ -11,7 +11,8 @@ var listener = function(details) {
 var urls = [
   "*://*.chinatimes.com/*",
   "*://*.ctitv.com.tw/*",
-  "*://*.ctv.com.tw/*"
+  "*://*.ctv.com.tw/*",
+  "*://*.want-daily.com/*"
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(listener, { urls: urls }, [ "blocking" ]);

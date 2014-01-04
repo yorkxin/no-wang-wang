@@ -19,6 +19,7 @@
     "webRequestBlocking",
     "*://*.chinatimes.com/*",
     "*://*.ctitv.com.tw/*",
-    "*://*.ctv.com.tw/*"
+    "*://*.ctv.com.tw/*",
+    "*://*.want-daily.com/*"
   ]
 }
