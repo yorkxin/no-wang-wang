@@ -6,6 +6,8 @@
 
 為表達抗議，以及防止手殘誤上這些網站，本軟體會將這幾個新聞媒體的網站封鎖，於是你就看不到這些網站上的廣告了，要是夠多人使用這個軟體，廣告主就知道在這些站投廣告的效果比以前差，投給旺旺中時集團的廣告量會降低，間接達到抗議的目的。
 
+Note: 也可以參考由 @leafwind 魔改的 [旺中守門員（改）](https://github.com/leafwind/no-wang-wang)
+
 ## 安裝方式
 
 本軟體製作成一個 Chrome 擴充程式，[請上 Chrome Web Store 安裝](https://chrome.google.com/webstore/detail/jgoljbdcdakinkigihjocpniamcgofmm/)。
