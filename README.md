@@ -21,6 +21,8 @@
 * 中天電視 `*.ctitv.com.tw`
 * 中國電視公司 `*.ctv.com.tw`
 * 旺報 `*.want-daily.com`
+* 工商時報 `*.ctee.com.tw`
+* Want Chinatimes （英文版旺報） `*.wantchinatimes.com`
 
 ## 聲明
 
