@@ -12,7 +12,9 @@ var urls = [
   "*://*.chinatimes.com/*",
   "*://*.ctitv.com.tw/*",
   "*://*.ctv.com.tw/*",
-  "*://*.want-daily.com/*"
+  "*://*.want-daily.com/*",
+  "*://*.ctee.com.tw/*",
+  "*://*.wantchinatimes.com/*"
 ];
 
 chrome.webRequest.onBeforeRequest.addListener(listener, { urls: urls }, [ "blocking" ]);
