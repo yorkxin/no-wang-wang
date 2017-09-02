@@ -1,6 +1,6 @@
 {
   "name": "旺中守門員",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "manifest_version": 2,
 
   "description": "從今天起，拒看中時電子報、中天電視、中視的網站。原始碼下載： github.com/chitsaou/no-wang-wang",
